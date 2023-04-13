@@ -46,7 +46,7 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 author = "WAN Gang"
-github = "https://github.com/vyrzdev/Games"
+github = "https://github.com/TheWANGang/Guidebook"
 url = "/docs/games/introduction"
 
 # If running on netlify.app site, set to true
