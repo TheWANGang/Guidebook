@@ -53,7 +53,7 @@ url = "/docs/games/introduction"
 is_netlify = true
 
 # Set HTML file language
-language_code = "en-US"
+language_code = "en-GB"
 
 # Set theme-color meta tag for Chrome browser
 theme_color = "#fff"
