@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zesty-moonbeam-761ea6.netlify.app/sitemap.xml
